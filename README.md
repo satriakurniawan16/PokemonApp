@@ -1,4 +1,4 @@
-# RickAndMorty - Android Architecture Sample
+# Pokemon - Android Architecture Sample For Pincon Assesment
 
 
 This App Base On A Rick And Morty simple app Architecture  practices in Android Development. Including:  
